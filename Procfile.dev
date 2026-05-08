@@ -1,0 +1,2 @@
+web: rm -f tmp/pids/server.pid && bin/rails s -p 3000
+vite: bin/vite dev
